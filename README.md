@@ -2,6 +2,8 @@
 
 Water hardness/alkalinity calculator for coffee brewing purposes.
 
+Live at: [waterwheel.netlify.app](https://waterwheel.netlify.app)
+
 ## Development
 
 To get an interactive development environment run:
